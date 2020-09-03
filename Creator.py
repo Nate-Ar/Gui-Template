@@ -1,3 +1,7 @@
+# Creator: Nathan A
+# Description: Makes Tkinter templates
+# Creation Date: 8/21/2020
+# Update Date: 
 from tkinter import *
 # size = '500x400'
 # bgcolor = 'black'
